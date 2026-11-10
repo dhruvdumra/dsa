@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **9** | 0 | 9 | 0 | `2026-11-09` |
+| **10** | 0 | 10 | 0 | `2026-11-10` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (9)
+### DSA (10)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -21,10 +21,11 @@
 | 0003 | [237. Left Rotate Array by K Places](./DSA/Arrays/left-rotate-array) | [CPP](./DSA/Arrays/left-rotate-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-11-09` |
 | 0004 | [832. Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [CPP](./DSA/Arrays/left-rotate-array-by-one/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-11-09` |
 | 0005 | [1020. Merge Sorting](./DSA/Arrays/merge-sorting) | [CPP](./DSA/Arrays/merge-sorting/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-11-05` |
-| 0006 | [1024. Quick Sorting](./DSA/Arrays/quick-sorting) | [CPP](./DSA/Arrays/quick-sorting/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-11-07` |
-| 0007 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-11-09` |
-| 0008 | [695. Second Largest Element](./DSA/General/second-largest-element) | [CPP](./DSA/General/second-largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-07` |
-| 0009 | [1031. Selection Sort](./DSA/Arrays/selection-sort) | [CPP](./DSA/Arrays/selection-sort/solution.cpp) | 🟡 Medium | `Arrays` | `2026-11-04` |
+| 0006 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [CPP](./DSA/General/move-zeros-to-end/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-10` |
+| 0007 | [1024. Quick Sorting](./DSA/Arrays/quick-sorting) | [CPP](./DSA/Arrays/quick-sorting/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-11-07` |
+| 0008 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-11-09` |
+| 0009 | [695. Second Largest Element](./DSA/General/second-largest-element) | [CPP](./DSA/General/second-largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-07` |
+| 0010 | [1031. Selection Sort](./DSA/Arrays/selection-sort) | [CPP](./DSA/Arrays/selection-sort/solution.cpp) | 🟡 Medium | `Arrays` | `2026-11-04` |
 
 ---
 
