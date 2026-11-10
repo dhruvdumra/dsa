@@ -1,25 +1,26 @@
 class Solution {
 public:
-    void moveZeroes(vector<int>& nums) {
-        vector<int> temp;
-        int n = nums.size();
-        for(int i = 0; i<n; i++) {
-            if (nums[i] !=0) {
-                temp.push_back(nums[i]);
+    void moveZeroes(vector<int>& a) {
+        int j = -1;
+        int n = a.size();
+        for(int i = 0; i<n; i++){
+            if (a[i]==0) {
+                j = i;
+                break;
             }
-         } // putting all non zero elemts in a array
-
-        int nz = temp.size();
-        for(int i = 0; i < nz; i++) {
-            nums[i] = temp[i];
         }
-        // replacing all the elements
+        // get the first 0 and initialize it with j
 
-        for(int i = nz; i<n; i++) {
-            nums[i] = 0;
+        //2nd step
+         if (j == -1) return;
+        //3rd step 2 pointer approach
+        for(int i = j+1; i<n; i++){
+            if(a[i]!=0) {
+                swap(a[i], a[j]);
+                j++;
+            }
         }
-
-
+        
 
     }
 };
